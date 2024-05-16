@@ -4,7 +4,7 @@ public class Metodos {
     }
     public double somar(int num1, int num2){
 		//LOGICA - FINALIDADE DO MÉTODO
-		return ... ;
+		return 0 ;
 	}
 
 	public void imprimir(String texto){
